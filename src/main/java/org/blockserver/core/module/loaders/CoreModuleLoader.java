@@ -70,4 +70,5 @@ public class CoreModuleLoader implements ModuleLoader {
 
         loggingModule.info("[CoreModuleLoader]: Loaded " + (modules.size() - start) + " core modules.");
     }
+
 }
